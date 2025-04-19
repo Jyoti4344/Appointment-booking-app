@@ -24,7 +24,7 @@ const Appointment = async ({ params: { userId } }: SearchParamProps) => {
             type="create"
           />
 
-          <p className="copyright mt-10 py-12">© 2025 Tulip Dental Clinic</p>
+          <p className="copyright mt-10 py-12">© 2025 Jain Dental Care Clinic</p>
         </div>
       </section>
 
